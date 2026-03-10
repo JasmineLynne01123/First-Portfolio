@@ -3,7 +3,7 @@
 Welcome to my professional portfolio. This project serves as a centralized hub for my frontend development work, focusing on **clean architecture**, **responsive design**, and **intuitive user interfaces**.
 
 ### 🔗 Deployment
-**Live Site:** [first-portfolio-html-and-css.vercel.app](      )
+**Live Site:** [first-portfolio-html-and-css.vercel.app](https://jasminelynne01123.github.io/First-Portfolio/)
 
 ---
 
