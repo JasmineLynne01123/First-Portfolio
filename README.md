@@ -1,23 +1,24 @@
 # Jasmine Lynn | Frontend Developer 💻
 
-Welcome to my professional portfolio. This project serves as a centralized hub for my frontend development work, focusing on **clean architecture**, **responsive design**, and **intuitive user interfaces**.
+Welcome to my professional portfolio. This project is built entirely from scratch to showcase my work in frontend development, focusing on **clean code**, **responsive design**, and **intuitive user interfaces**.
 
-### 🔗 Deployment
-**Live Site:** [first-portfolio-html-and-css.vercel.app](https://jasminelynne01123.github.io/First-Portfolio/)
+### 🔗 Live Demo
+**Site Link:** [jasminelynne01123.github.io/First-Portfolio/](https://jasminelynne01123.github.io/First-Portfolio/)
 
 ---
 
 ### 🚀 Key Features
 * **Mobile-First Design:** Fully responsive layout that adapts seamlessly from desktop to mobile.
-* **Modern UI Components:** Implementation of "Glassmorphism" and interactive CSS-driven gradients.
-* **High-Performance Assets:** Optimized image handling for fast load times on Vercel.
+* **Modern UI Components:** Implementation of interactive CSS-driven gradients and glassmorphism.
 * **Clean Codebase:** Semantic HTML5 and modular CSS3 for better SEO and maintainability.
+* **GitHub Actions:** Automated deployment using GitHub Pages.
 
 ### 🛠️ Technical Stack
 | Category | Technology |
 | :--- | :--- |
 | **Frontend** | HTML5, CSS3, JavaScript |
 | **Styling** | Flexbox, CSS Grid, Custom Animations |
+| **Deployment** | GitHub Pages |
 | **Tools** | VS Code, Git/GitHub |
 
 ### 📂 Project Highlights
