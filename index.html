@@ -16,17 +16,18 @@
             <nav class="header__nav">
                 <ul class="header__nav-list">
                     <li class="header__nav-item">
-                        <a href="#" class="header__nav">Home</a>
+                        <a href="#" class="header__nav-link" tabindex="0">Home</a>
                     </li>
                     <li class="header__nav-item">
-                        <a href="Portfolio" class="header__nav">Portfolio</a>
+                        <a href="Portfolio" class="header__nav-link" tabindex="0">Portfolio</a>
                     </li>
-                    <li class="header__nav-item">
-                        <a href="Contact" class="header__nav">Contact</a>
+                    <li class="header__nav-item header__nav-item--contact">
+                        <a role="button" href="Contact" class="header__nav-link" tabindex="0">Contact</a>
                     </li>
                     <li class="header__nav-item header__nav-item--github">
-                        <a href="https://github.com/your-github-username" target="_blank" class="header__nav-link">
+                        <a href="https://github.com/JasmineLynne01123" target="_blank" class="header__nav-link">
                             <i class="fab fa-github"></i>
+                        </a>
                     </li>
 
                 </ul>
@@ -164,23 +165,23 @@
         </div>
     </section>
 
- <section id="portfolio" class="gallery">
+    <section id="portfolio" class="gallery">
         <div class="container">
             <div class="gallery_grid">
                 <div class="gallery__item">
                     <label for="modal-6">
                         <span class="gallery__image-container"
-                            style="background-image: url('images/glass-gradient-card.png');"></span>
+                            style="background-image: url('images/computer-diorama.png');"></span>
                     </label>
                     <input type="checkbox" id="modal-6" class="gallerry__modal-checkbox">
                     <div class="gallery__modial">
                         <label for="modial-6" class="gallery__modial-close">&times;</label>
-                        <img src="images/glass-gradient-card.png" alt="Glass Gradient Card"
-                            class="gallery__modal-image">
+                        <img src="images/computer-diorama.png" alt="computer diorama" class="gallery__modal-image">
                     </div>
                     <div class="gallery_item-info">
-                        <span class="gallery__item-title">Glass Gradient Card</span>
-                        <a href="https://codepen.io/Podgro/pen/oNOKYqr" target="_blank" class="gallery__item-link">
+                        <span class="gallery__item-title">Computer Diorama</span>
+                        <a href="https://codepen.io/ricardoolivaalonso/pen/poYEpwP" target="_blank"
+                            class="gallery__item-link">
                             <i class="fas fa-external-link-alt"></i>
                         </a>
                     </div>
@@ -188,7 +189,17 @@
             </div>
         </div>
     </section>
-
+    <section id="contact" class="contact">
+        <di class="container">
+            <h2 class="contact__title">Contact Me</h2>
+            <p class="contact__description">Feel Free to reach out to me via email 01123jasminelynne@gmail.com</p>
+        </di>
+    </section>
+    <footer class="footer">
+        <div class="container">
+            <p class="footer__text">&copy; 2026 Jasmine Lynne. All rights reserved.</p>
+        </div>
+    </footer>
 </body>
 
 </html>
