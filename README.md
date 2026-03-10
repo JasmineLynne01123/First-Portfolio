@@ -18,7 +18,6 @@ Welcome to my professional portfolio. This project serves as a centralized hub f
 | :--- | :--- |
 | **Frontend** | HTML5, CSS3, JavaScript |
 | **Styling** | Flexbox, CSS Grid, Custom Animations |
-| **Deployment** | Vercel (CI/CD) |
 | **Tools** | VS Code, Git/GitHub |
 
 ### 📂 Project Highlights
